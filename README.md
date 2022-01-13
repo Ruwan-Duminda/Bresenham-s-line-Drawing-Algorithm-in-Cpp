@@ -1,5 +1,6 @@
 # Bresenham-s-line-Drawing-Program-in-Cpp
 Updated,100% working. 
+First of all you need to Download Graphics Header File Setup for CodeBlocks and Dev cpp.zip(all the files are provided)
 
 Instruction for adding graphics file in Code::Blocks 
 ***************************************************************************************************

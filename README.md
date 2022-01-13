@@ -1,4 +1,4 @@
-# Bresenham-s-line-Drawing-Program-in-Cpp
+# Bresenham-s-line-Drawing-Algorithm-in-Cpp
 Updated,100% working. 
 
 First of all you need to Download Graphics Header File Setup for CodeBlocks and Dev cpp.zip(all the files are provided)
